@@ -74,7 +74,7 @@
             <key code="40" output="प"/>
             <key code="41" output="स"/>
             <key code="42" output="्"/>
-            <key code="43" output=" ,"/>
+            <key code="43" output=","/>
             <key code="44" output="र"/>
             <key code="45" output="ल"/>
             <key code="46" output="ः"/>
@@ -140,7 +140,7 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="1">
-            <key code="0" output="अा"/>
+            <key code="0" output="आ"/>
             <key code="1" output="क्"/>
             <key code="2" output="‍"/>
             <key code="3" output="ँ"/>
